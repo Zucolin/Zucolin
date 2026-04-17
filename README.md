@@ -28,7 +28,7 @@ Gosto de transformar ideias em sistemas funcionais, com codigo limpo, boa estrut
 ## Conecte-se comigo
 
 <div align="center">
-  <a href="www.linkedin.com/in/vinicius-eduardo-zucolin-913a53293" target="_blank">
+  <a href="https://www.linkedin.com/in/vinicius-eduardo-zucolin-913a53293/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:vini.zucolin@gmail.com">
