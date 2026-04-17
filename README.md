@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hello, Devs! Eu sou Vincius Zucolin
+# Hello, Devs! Eu sou Vincius Zucolin 👋
 
-### Programador Full Stack com enfase em Backend
+### Programador Full Stack com ênfase em Backend
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack;Especialista+em+Backend;C%23+%7C+PHP+%7C+MySQL;Apps+com+Visual+Studio+e+.NET+Framework" alt="Typing SVG" />
 
@@ -12,7 +12,7 @@
 
 ## Sobre mim
 
-Sou programador **Full Stack**, com maior foco em **desenvolvimento backend**, criando solucoes robustas, organizadas e voltadas para performance.
+Sou programador **Full Stack**, com maior foco em **desenvolvimento backend**, criando soluções robustas, organizadas e voltadas para performance.
 
 Minha principal stack envolve:
 
@@ -28,7 +28,7 @@ Gosto de transformar ideias em sistemas funcionais, com codigo limpo, boa estrut
 ## Conecte-se comigo
 
 <div align="center">
-  <a href="LINKEDIN_AQUI" target="_blank">
+  <a href="www.linkedin.com/in/vinicius-eduardo-zucolin-913a53293" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:vini.zucolin@gmail.com">
@@ -74,9 +74,9 @@ Gosto de transformar ideias em sistemas funcionais, com codigo limpo, boa estrut
 ## O que eu faço?
 
 - Desenvolvimento de sistemas desktop com `C#` e `.NET Framework`
-- Criacao de APIs, regras de negocio e integracoes backend
+- Criação de APIs, regras de negócio e integrações backend
 - Desenvolvimento de sistemas web com `PHP`
-- Estruturacao e manutencao de bancos de dados `MySQL`
+- Estruturação e manutenção de bancos de dados `MySQL`
 - Projetos Full Stack com foco em desempenho, organizacao e escalabilidade
 
 ---
@@ -94,9 +94,7 @@ Gosto de transformar ideias em sistemas funcionais, com codigo limpo, boa estrut
 
 ---
 
-## Destaque profissional
-
-> "ora et labora"
+> "ora et labora" 🙏
 
 ---
 
