@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello, Devs! Eu sou Vincius Zucolin 👋
+# Hello, Devs! Eu sou Vinicius Zucolin 👋
 
 ### Programador Full Stack com ênfase em Backend
 
