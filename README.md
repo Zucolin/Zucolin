@@ -19,7 +19,7 @@ Minha principal stack envolve:
 - `C#` como tecnologia principal
 - `PHP` para desenvolvimento web e sistemas
 - `MySQL` para modelagem e gerenciamento de bancos de dados
-- Criacao de aplicativos com `Visual Studio` e `.NET Framework`
+- Criação de aplicativos com `Visual Studio` e `.NET Framework`
 
 Gosto de transformar ideias em sistemas funcionais, com codigo limpo, boa estrutura e foco em resultado.
 
